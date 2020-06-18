@@ -1,6 +1,6 @@
 package main.scala
 
-object MyApp {
+object HelloWorld {
   // comment
 
   /*
